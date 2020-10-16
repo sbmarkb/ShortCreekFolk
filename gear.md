@@ -6,5 +6,10 @@ subtitle: things that help me create
 
 ## Guitars
 
-Electric Guitars by Fender, Taylor, Gibson and Duesenberg
-Acoustic Guitars by Martin and Larivee
+My primary electric guitar is a Fender Telecaster, fitted with Don Mare pickups and Glendale compensated saddles.
+
+My primary acoustic guitar is a Martin D-18, fitted with the LR Baggs Anthem System
+
+## Other Stuff
+
+Coming soon
