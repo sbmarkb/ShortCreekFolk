@@ -4,4 +4,6 @@ title: Current Meditation
 subtitle: reflecting on music that made me
 ---
 
-# TO BE CONTINUED
+## Wax Poetic
+
+Moments are nodes on a graph and interactions are the edges that connect them.
