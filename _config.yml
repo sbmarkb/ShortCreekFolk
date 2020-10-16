@@ -18,8 +18,9 @@ navbar-links:
   Current Meditation: "currentmeditation"
   Media: "media"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Current Apple Music Playlist: "https://music.apple.com/us/playlist/acoustic-country-candidates/pl.u-62r3FB7JWqq"
+    - SoundCloud: "https://soundcloud.com/shortcreekfolk"
+    - YouTube: "https://www.youtube.com/channel/UC9SF1h-1NzmbbXmLWbIDn0w"
   Contact: "contact"
 
 # --- Logo --- #
@@ -230,4 +231,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
