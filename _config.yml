@@ -16,11 +16,11 @@ author: shortcreekfolk
 navbar-links:
   About Me: "aboutme"
   Current Meditation: "currentmeditation"
-  Media: "media"
-  Resources:
-    - Current Apple Music Playlist: "https://music.apple.com/us/playlist/acoustic-country-candidates/pl.u-62r3FB7JWqq"
+  Media:
     - SoundCloud: "https://soundcloud.com/shortcreekfolk"
     - YouTube: "https://www.youtube.com/channel/UC9SF1h-1NzmbbXmLWbIDn0w"
+  Resources:
+    - Current Playlist: "https://music.apple.com/us/playlist/acoustic-country-candidates/pl.u-62r3FB7JWqq"
   Contact: "contact"
 
 # --- Logo --- #
