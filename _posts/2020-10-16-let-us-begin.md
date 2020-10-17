@@ -6,7 +6,7 @@ tags:
 comments: false
 ---
 
-I've started my reflection and meditation on songs of my youth. You can learn all about it [here](/currentmeditation.md).
+I've started my reflection and meditation on songs of my youth. You can learn all about it [here](/currentmeditation).
 
 You can follow the whole story on [Instagram]() and [Twitter](), audio samples will be posted to [SoundCloud]() and any video will live on [YouTube]().
 
