@@ -47,8 +47,7 @@ social-network-links:
   twitter: shortcreekfolk
   instagram: shortcreekfolk
   reddit: sbguitarguy
-  youtube: shortcreekfolk
-  soundcloud: shortcreekfolk
+  youtube: channel/UC9SF1h-1NzmbbXmLWbIDn0w
 #  youtube: daattali
 #  reddit: yourname
 #  linkedin: daattali
@@ -70,7 +69,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: "Short Creek Folk: a musical journey"
+rss-description: "Short Creek Folk: A Musical Reflection and Meditation"
 
 # --- General options --- #
 
@@ -210,7 +209,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
