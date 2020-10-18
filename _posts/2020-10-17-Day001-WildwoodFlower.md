@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 1: Wildwood Flower
+title: Day 1 - Wildwood Flower
 subtitle: as recorded by The Carter Family (1928)
 tags: oldtimemusic, carterscratch, folkmusic, americana
 comments: false
