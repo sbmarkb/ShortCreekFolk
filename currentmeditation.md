@@ -25,4 +25,14 @@ For the final sixty days, I will use the free writing, journaling and other reso
 
 ### Progress
 
+#### Week 1
+
 + Day 001 - [Wildwood Flower, The Carter Family, 1928](/_posts/2020-10-17-Day001-WildwoodFlower)
++ Day 002 - Man of Constant Sorrow, The Stanley Brothers, 1950
++ Day 003 - Blue Yodel No. 9, Jimmie Rodgers, 1930
++ Day 004 - Walking the Floor Over You, Ernest Tubb, 1941
++ Day 005 - Blue Moon of Kentucky, Bill Monroe, 1945
++ Day 006 - Sixteen Tons, Merle Travis, 1946
++ Day 007 - I Saw the Light, Hank Williams, 1947
+
+... to be continued ...
