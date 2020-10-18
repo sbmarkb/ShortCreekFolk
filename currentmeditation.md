@@ -22,3 +22,7 @@ While I was exposed to a diverse genre of music, I will limit my selections to t
 For the next twenty days, I will recreate three of these hundred songs in an original arrangement.
 
 For the final sixty days, I will use the free writing, journaling and other resources to produce at least two original works based on what I've learned.
+
+### Progress
+
++ Day 001 - [Wildwood Flower, The Carter Family, 1928](/_posts/2020-10-17-Day001-WildwoodFlower)

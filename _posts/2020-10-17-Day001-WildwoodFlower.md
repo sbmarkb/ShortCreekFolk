@@ -5,6 +5,8 @@ subtitle: as recorded by The Carter Family (1928)
 tags: oldtimemusic, carterscratch, folkmusic, americana
 comments: false
 ---
+# Day 1: Wildwood Flower
+This is day 1 of a 180 day [meditation](../currentmeditation) on songs that defined my youth, specifically those songs associated with time spent in the little country community called Short Creek. The study for the day is "Wildwood Flower."
 
 ## The Song
 "Wildwood Flower" is a folk song, No. 757 in the Roud Folk Song Index, and a variant of "I'll Twine 'Mid the Ringlets" (1860, J P Webster). Maud Irving wrote the lyrics.
