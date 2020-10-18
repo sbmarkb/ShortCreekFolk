@@ -15,6 +15,6 @@ From time to time, I'll broadcast or post on [Reddit](https://www.reddit.com/use
 
 If you want to try an email, I keep my [email address](mailto:shortcreekfolk@gmail.com) public
 
-```NOTE:
-
-I screen the first and only the first email you send me. If it is interesting/respectful/not spam, I add you to a _nice_ list. If you waste my time, you will be added to the _naughty_ list. I don't ever modify the naughty list.```
+> NOTE:
+>
+> I screen the first and only the first email you send me. If it is interesting/respectful/not spam, I add you to a _nice_ list. If you waste my time, you will be added to the _naughty_ list. I don't ever modify the naughty list.
