@@ -6,9 +6,9 @@ subtitle: let's be friends
 
 You can find me...
 
-+ on Twitter as [\@shortcreekfolk](https://twitter.com/shortcreekfolk)
-+ on Instagram as [\@shortcreekfolk](https://www.instagram.com/shortcreekfolk)
-+ on SoundCloud as [\@shortcreekfolk](https://soundcloud.com/shortcreekfolk)
++ on Twitter as [@shortcreekfolk](https://twitter.com/shortcreekfolk)
++ on Instagram as [@shortcreekfolk](https://www.instagram.com/shortcreekfolk)
++ on SoundCloud as [@shortcreekfolk](https://soundcloud.com/shortcreekfolk)
 + on YouTube as [short creek folk](https://youtube.com/channel/UC9SF1h-1NzmbbXmLWbIDn0w)
 
 From time to time, I'll broadcast or post on [Reddit](https://www.reddit.com/user/sbguitarguy).
