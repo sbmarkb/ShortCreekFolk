@@ -9,9 +9,7 @@ subtitle: reflecting on music that made me
 ### Premise
 This reflection and meditation is scheduled for 180 days.
 
-Each day will consist of a morning free writing session, an evening journaling session and:
-
-For the first hundred days, I will:
+Each day will consist of a morning free writing session, an evening journaling session and, for the first hundred days, I will:
 + listen to songs that played some part of my musical life up to the day I left Tennessee, December 13, 1993
 + research the history of the song, but focus on a particular recording
 + learn to play along
