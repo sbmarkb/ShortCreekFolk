@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Journal <<date/time>>
 subtitle: the day in review
 tags: journal, musicmeditation

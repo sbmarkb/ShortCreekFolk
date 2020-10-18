@@ -2,7 +2,7 @@
 layout: post
 title: Day 2 - Man of Constant Sorrow
 subtitle: as recorded by The Stanley Brothers (1950)
-tags: oldtimemusic, carterscratch, folkmusic, americana
+tags: oldtimemusic, carterscratch, folkmusic, americana, musicmeditation
 comments: false
 ---
 > This is day 2 of a 180 day [meditation](../currentmeditation) on songs that defined my youth, specifically those songs associated with time spent in the little country community called Short Creek. The study for the day is "Man of Constant Sorrow."

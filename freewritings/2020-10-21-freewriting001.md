@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Freewriting <<date/time>>
 subtitle: unfiltered thoughts
 tags: freewriting, musicmeditation
