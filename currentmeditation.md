@@ -35,46 +35,55 @@ For the final sixty days, I will use the free writing, journaling and other reso
 
 #### Week 2
 + Day 008 - I Saw the Light, Hank Williams, 1947
-+ Day 009 - I'm Movin' On, Hank Snow, year
-+ Day 010 - If You've Got the Money I've Got the Time, Lefty Frizzell, year
-+ Day 011 - Folsom Prison Blues, Johnny Cash, year
-+ Day 012 - A Satisfied Mind, Porter Wagoner, year
-+ Day 013 - Oh Lonesome Me, Don Gibson, year
-+ Day 014 - Bye Bye Love, The Everly Brothers, year
++ Day 009 - I'm Movin' On, Hank Snow, 1950
++ Day 010 - If You've Got the Money I've Got the Time, Lefty Frizzell, 1950
++ Day 011 - Folsom Prison Blues, Johnny Cash, 1953
++ Day 012 - A Satisfied Mind, Porter Wagoner, 1955
++ Day 013 - Oh Lonesome Me, Don Gibson, 1957
++ Day 014 - Bye Bye Love, The Everly Brothers, 1957
 
 #### Week 3
-+ Day 015 - He'll Have to Go, Jim Reeves, year
-+ Day 016 - El Paso, Marty Robbins, year
-+ Day 017 - Hello Walls, Faron Young, year
-+ Day 018 - Act Naturally, Buck Owens, year
-+ Day 019 - Wichita Lineman, Glen Campbell, year
-+ Day 020 - Mama Tried, Merle Haggard, year
-+ Day 021 - Hello Darlin', Conway Twitty, year
++ Day 015 - He'll Have to Go, Jim Reeves, 1959
++ Day 016 - El Paso, Marty Robbins, 1959
++ Day 017 - Hello Walls, Faron Young, 1960
++ Day 018 - Act Naturally, Buck Owens, 1963
++ Day 019 - Wichita Lineman, Glen Campbell, 1968
++ Day 020 - Mama Tried, Merle Haggard, 1968
++ Day 021 - Hello Darlin', Conway Twitty, 1969
 
 #### Week 4
-+ Day 022 - $1000 Wedding, Gram Parsons, year
-+ Day 023 - For the Good Times, Ray Price, year
-+ Day 024 - Always On My Mind, Willie Nelson, year
-+ Day 025 - Kiss an Angel Good Mornin', Charley Pride, year
-+ Day 026 - Angel From Montgomery, John Prine, year
-+ Day 027 - Pancho and Lefty, Townes Van Zandt, year
-+ Day 028 - Behind Closed Doors, Charlie Rich, year
++ Day 022 - $1000 Wedding, Gram Parsons, 1970
++ Day 023 - For the Good Times, Ray Price, 1970
++ Day 024 - Always On My Mind, Willie Nelson, 1982
++ Day 025 - Kiss an Angel Good Mornin', Charley Pride, 1971
++ Day 026 - Angel From Montgomery, John Prine, 1971
++ Day 027 - Pancho and Lefty, Townes Van Zandt, 1972
++ Day 028 - Behind Closed Doors, Charlie Rich, 1973
 
 #### Week 5
-+ Day 029 - Amarillo By Morning, George Strait, year
-+ Day 030 - The Grand Tour, George Jones, year
-+ Day 031 - She's Actin' Single (I'm Drinkin' Doubles), Gary Stewart, year
-+ Day 032 - The Gambler, Kenny Rogers, year
-+ Day 033 - I Ain't Living Long Like This, Waylon Jennings, year
-+ Day 034 - You Never Even Called My By My Name, David Allan Coe, year
-+ Day 035 - Old Chunk of Coal, Billie Joe Shaver, year
++ Day 029 - Amarillo By Morning, George Strait, 1973
++ Day 030 - The Grand Tour, George Jones, 1974
++ Day 031 - She's Actin' Single (I'm Drinkin' Doubles), Gary Stewart, 1975
++ Day 032 - The Gambler, Kenny Rogers, 1978
++ Day 033 - I Ain't Living Long Like This, Waylon Jennings, 1979
++ Day 034 - You Never Even Called Me By My Name, David Allan Coe, 1975
++ Day 035 - Old Chunk of Coal, Billie Joe Shaver, 1981
 
 #### Week 6
-+ Day 036 - Smokey Mountain Rain, Ronnie Milsap, year
-+ Day 037 - Guitars Cadillacs, Dwight Yoakam, year
-+ Day 038 - Guitar Town, Steve Earle, year
-+ Day 039 - If I Had a Boat, Lyle Lovett, year
++ Day 036 - Smoky Mountain Rain, Ronnie Milsap, 1980
++ Day 037 - Guitars Cadillacs, Dwight Yoakam, 1986
++ Day 038 - Guitar Town, Steve Earle, 1986
++ Day 039 - If I Had a Boat, Lyle Lovett, 1987
++ Day 040 - When You Say Nothing At All, Keith Whitley, 1988
++ Day 042 - Could I Have This Dance, Anne Murray, 1980
 
-TO BE CONTINUED...
+#### Week 7 - Gospel Week
++ Day 043 - Can the Circle Be Unbroken, The Carter Family, 1935
++ Day 044 - I'll Fly Away. Traditional, 1929
++ Day 045 - Just a Little Talk with Jesus, Traditional, 1937
++ Day 046 - I'll Meet You in the Morning, Traditional, 1956
++ Day 047 - Leaning on the Everlasting Arms, Traditional, 1887
++ Day 048 - Just As I Am, Traditional, 1835
++ Day 049 - Never Grow Old, Traditional, 1914
 
 ***
