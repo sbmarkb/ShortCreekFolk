@@ -23,4 +23,4 @@ I learned my first three chords from my papaw, and the next few from his Mel Bay
 
 I was able to get close today, so I think I'll keep trying to get this one note perfect as an ongoing exercise.
 
-<center>![The Carter Family](/assets/img/carterfamily.jpg)</center>
+![The Carter Family](/assets/img/carterfamily.jpg)
