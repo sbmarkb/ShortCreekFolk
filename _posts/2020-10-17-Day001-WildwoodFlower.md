@@ -2,7 +2,7 @@
 layout: post
 title: Day 1 - Wildwood Flower
 subtitle: as recorded by The Carter Family (1928)
-tags: oldtimemusic, carterscratch, folkmusic, americana, musicmeditation
+tags: oldtimemusic carterscratch folkmusic americana musicmeditation
 comments: false
 ---
 > This is day 1 of a 180 day [meditation](../currentmeditation) on songs that defined my youth, specifically those songs associated with time spent in the little country community called Short Creek. The study for the day is "Wildwood Flower."

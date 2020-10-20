@@ -2,7 +2,7 @@
 layout: post
 title: Blue Yodel No. 9 (Standing on the Corner)
 subtitle: as recorded by Jimmie Rodgers (1930)
-tags: countryblues, yodel, folkmusic, americana, musicmeditation
+tags: countryblues yodel folkmusic americana musicmeditation
 comments: false
 ---
 > This is day 4 of a 180 day [meditation](../currentmeditation) on songs that defined my youth, specifically those songs associated with time spent in the little country community called Short Creek. The study for the day is "Blue Yodel No. 9 (Standing on the Corner)."
