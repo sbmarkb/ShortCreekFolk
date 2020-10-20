@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blue Yodel No. 9 (Standing on the Corner)
+title: Day 4 - Blue Yodel No. 9 (Standing on the Corner)
 subtitle: as recorded by Jimmie Rodgers (1930)
 tags: countryblues yodel folkmusic americana musicmeditation
 comments: false
