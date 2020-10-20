@@ -20,3 +20,5 @@ I was able to imitate Jimmie's yodel as a child and it tickled my papaw to no en
 
 ## The Technique
 I haven't tried to sing these songs specifically or yodel generally for at least a couple of decades. The goal for today is to just enjoy listening to this song and see if I can eek out a worthy version of my own.
+
+<center>![Jimmie Rodgers](/assets/img/jimmierodgers.jpg)</center>

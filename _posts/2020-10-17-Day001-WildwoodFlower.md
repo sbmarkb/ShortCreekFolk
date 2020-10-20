@@ -22,3 +22,5 @@ My papaw's sister, Ollie, was married to a man named Alvin Carter. Families were
 I learned my first three chords from my papaw, and the next few from his Mel Bay chord book. All first position. He played everything in G, C and D, so I played everything in G, C and D. Piano being the second most common instrument found around, I was familiar with major and minor scale intervals and quickly noticed the scale notes around those chords. A clumsy sort of Carter Scratch was just my natural way of playing, but I never *really* worked on thumb discipline.
 
 I was able to get close today, so I think I'll keep trying to get this one note perfect as an ongoing exercise.
+
+<center>![The Carter Family](/assets/img/carterfamily.jpg)</center>

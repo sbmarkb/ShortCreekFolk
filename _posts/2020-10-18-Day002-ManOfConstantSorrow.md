@@ -18,3 +18,5 @@ Bluegrass and Southern Gospel harmonies are very special to me. There's no real 
 
 ## The Technique
 There are newer, popular versions of this song, e.g. Dan Tyminski's version from _O Brother, Where Art Thou?_, so the real challenge for me is not getting distracted and falling into a different form. I've known and sang this song for so long, changing the few things I've noted will be hard as they are nit-picky and don't sound bad the way I phrase things.
+
+<center>![The Stanley Brothers](/assets/img/stanleybrothers.jpg)</center>
