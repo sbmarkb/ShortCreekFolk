@@ -75,6 +75,7 @@ For the final sixty days, I will use the free writing, journaling and other reso
 + Day 038 - Guitar Town, Steve Earle, 1986
 + Day 039 - If I Had a Boat, Lyle Lovett, 1987
 + Day 040 - When You Say Nothing At All, Keith Whitley, 1988
++ Day 041 - Your Cheating Heart, Hank Williams,
 + Day 042 - Could I Have This Dance, Anne Murray, 1980
 
 #### Week 7 - Gospel Week
