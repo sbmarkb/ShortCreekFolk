@@ -17,9 +17,9 @@ Each day will consist of a morning free writing session, an evening journaling s
 
 While I was exposed to a diverse genre of music, I will limit my selections to the country, folk, bluegrass and gospel music that featured most prominently during the significant time I spent on my grandparent's farm.
 
-For the next twenty days, I will recreate three of these hundred songs in an original arrangement.
+For the following twenty days, I will recreate three to five of these hundred songs in an original arrangement.
 
-For the final sixty days, I will use the free writing, journaling and other resources to produce at least two original works based on what I've learned.
+For the final sixty days, I will use the free writing, journaling and other resources to produce original works based on what I've learned.
 
 ### Progress
 
