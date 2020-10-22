@@ -1,4 +1,4 @@
-\---
+---
 layout: post
 title: Day 6 - Blue Moon of Kentucky
 subtitle: as recorded by Bill Monroe (1945)
