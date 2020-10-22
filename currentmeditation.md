@@ -30,7 +30,7 @@ For the final sixty days, I will use the free writing, journaling and other reso
 + Day 003 - [Jole Blon, Harry Choates, 1946](/2020-10-19-Day003-JoleBlon)
 + Day 004 - [Blue Yodel No. 9, Jimmie Rodgers, 1930](/2020-10-20-Day004-BlueYodelNo9)
 + Day 005 - [Walking the Floor Over You, Ernest Tubb, 1941](/2020-10-21-Day005-WalkingTheFloorOverYou)
-+ Day 006 - Blue Moon of Kentucky, Bill Monroe, 1945
++ Day 006 - [Blue Moon of Kentucky, Bill Monroe, 1945](/2020-10-22-Day006-BlueMoonOfKentucky)
 + Day 007 - Sixteen Tons, Merle Travis, 1946
 
 #### Week 2
