@@ -20,8 +20,7 @@ navbar-links:
     - SoundCloud: "https://soundcloud.com/shortcreekfolk"
     - YouTube: "https://www.youtube.com/channel/UC9SF1h-1NzmbbXmLWbIDn0w"
   Resources:
-    - Playlists:
-      - Apple Music: "https://music.apple.com/us/playlist/short-creek-folk/pl.u-625KIB7JWqq"
+    - Apple Music Playlist: "https://music.apple.com/us/playlist/short-creek-folk/pl.u-625KIB7JWqq"
     - Gear List: "gear"
   Contact: "contact"
 
