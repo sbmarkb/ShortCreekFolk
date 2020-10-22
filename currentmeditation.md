@@ -86,4 +86,77 @@ For the final sixty days, I will use the free writing, journaling and other reso
 + Day 048 - Just As I Am, Traditional, 1835
 + Day 049 - Never Grow Old, Traditional, 1914
 
+#### Week 8
++ Day 050 - Fox on the Run, Country Gentlemen, 1971
++ Day 051 - You Don't Know My Mind, Jimmy Martin,
++ Day 052 - I Wouldn't Change You If I Could, Ricky Skaggs,
++ Day 053 - High on a Mountain, Del McCoury,
++ Day 054 - I Know You Rider, The Seldom Scene,
++ Day 055 - Ruby, Are You Mad at Your Man, The Osborne Brothers,
++ Day 056 - Roll in My Sweet Baby's Arms, Flatt & Scruggs,
+
+#### Week 9
++ Day 057 - With Body and Soul, Bill Monroe,
++ Day 058 - Long Black Veil, John Duffey,
++ Day 059 - Cripple Creek, The Stonemans,
++ Day 060 - Will the Circle Be Unbroken, Nitty Gritty Dirtband,
++ Day 061 - Rank Stranger, Ralph Stanley,
++ Day 062 - Jerusalem Ridge, Kenny Baker,
++ Day 063 - Wayfaring Stranger, Emmylou Harris,
+
+#### Week 10
++ Day 064 - Take This Job and Shove It, Johnny Paycheck,
++ Day 065 - Mountain Music, Alabama,
++ Day 066 - Lucille, Kenny Rogers,
++ Day 067 - I'm Just a Country Boy, Don Williams,
++ Day 068 - Semolita, Jerry Reed,
++ Day 069 - I Love a Rainy Night, Eddie Rabbit,
++ Day 070 - Sad Songs and Waltzes, Willie Nelson,
+
+#### Week 11
++ Day 071 - Blue Yodel No. 1 (T for Texas), Jimmie Rodgers,
++ Day 072 - I'm So Lonesome I Could Cry, Hank Williams,
++ Day 073 - I Walk the Line, Johnny Cash,
++ Day 074 - Together Again, Buck Owens,
++ Day 075 - He Stopped Loving Her Today, George Jones,
++ Day 076 - Rhinestone Cowboy, Glen Campbell,
++ Day 077 - Tennessee Whiskey, David Allan Coe,
+
+#### Week 12
++ Day 078 - Old Hippie, Bellamy Brothers,
++ Day 079 - Settin' the Woods on Fire, Hank Williams,
++ Day 080 - I've Got a Tiger by the Tail, Buck Owens,
++ Day 081 - Blue Eyes Crying in the Rain, Willie Nelson,
++ Day 082 - Coward of the County, Kenny Rogers,
++ Day 083 - I'll Meet You in the Church Sunday Morning, The Stanley Brothers,
++ Day 084 - Uncle Pen, Bill Monroe,
+
+#### Week 13
++ Day 085 - I've Got That Old Feeling, Alison Krauss,
++ Day 086 - Worried Man Blues, The Carter Family,
++ Day 087 - Dooley, The Dillards,
++ Day 088 - Callin' Baton Rouge, New Grass Revival,
++ Day 089 - The Devil's Train, James King,
++ Day 090 - Freight Train, Bill Jenkins,
++ Day 091 - High Lonesome Sound, Vince Gill,
+
+#### Week 14
++ Day 092 - Nine Pound Hammer, Jim and Jesse,
++ Day 093 - Hit Parade of Love, Jimmy Martin,
++ Day 094 - Drink Up and Go Home, The Stanley Brothers,
++ Day 095 - I Am a Pilgrim, The New Kentucky Colonels,
++ Day 096 - Little Birdie, Red Allen,
++ Day 097 - Tennessee 1949, Larry Sparks,
++ Day 098 - Pretty Green Hills, Dave Evans,
+
+#### Week 15
+
++ Day 099 - Little Maggie, Raplh Stanley,
++ Day 100 - Mountain Dew, Grandpa Jones,
++ Day 101 - Last Train to Kitty Hawk, Balsam Range,
++ Day 102 - Walls of Time, The Johnson Mountain Boys,
++ Day 103 - I'm On My Way Back to the Old Home, Bill Monroe,
++ Day 104 - Black Mountain Rag, Doc Watson,
++ Day 105 - In the Jailhouse Now, Jimmie Rodgers,
+
 ***
