@@ -34,9 +34,9 @@ For the final sixty days, I will use the free writing, journaling and other reso
 + Day 007 - [Sixteen Tons, Merle Travis, 1946](/2020-10-23-Day007-SixteenTons)
 
 #### Week 2
-+ Day 008 - I Saw the Light, Hank Williams, 1947
-+ Day 009 - I'm Movin' On, Hank Snow, 1950
-+ Day 010 - If You've Got the Money I've Got the Time, Lefty Frizzell, 1950
++ Day 008 - [I Saw the Light, Hank Williams, 1947](/2020-10-24-Day008-ISawTheLight)
++ Day 009 - [I'm Movin' On, Hank Snow, 1950](/2020-10-25-Day009-ImMovinOn)
++ Day 010 - [If You've Got the Money I've Got the Time, Lefty Frizzell, 1950](/2020-10-26-Day010-IfYouveGotTheMoneyIveGotTheTime)
 + Day 011 - Folsom Prison Blues, Johnny Cash, 1953
 + Day 012 - A Satisfied Mind, Porter Wagoner, 1955
 + Day 013 - Oh Lonesome Me, Don Gibson, 1957
