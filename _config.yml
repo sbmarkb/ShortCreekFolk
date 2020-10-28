@@ -78,7 +78,7 @@ rss-description: "Short Creek Folk: A Musical Reflection and Meditation"
 share-links-active:
   twitter: true
   instagram: true
-  facebook: false
+  facebook: true
   linkedin: false
   vk: false
 
@@ -96,22 +96,22 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "music meditation, music study, country music, folk music, bluegrass, country blues, acoustic guitar, americana, meditation, music"
 
 # --- Colours / background image --- #
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#282a2e"
 navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+navbar-border-col: "#1d1f21"
+page-col: "#c5c8c6"
+text-col: "#1d1f21"
+link-col: "#81a2be"
+hover-col: "#8abeb7"
+footer-col: "#282a2e"
+footer-text-col: "#c5c8c6"
+footer-link-col: "#81a2be"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
