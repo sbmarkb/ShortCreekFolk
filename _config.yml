@@ -102,14 +102,14 @@ keywords: "music meditation, music study, country music, folk music, bluegrass, 
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#282a2e"
-navbar-text-col: "#404040"
+navbar-col: "#373b41"
+navbar-text-col: "#c5c8c6"
 navbar-border-col: "#1d1f21"
-page-col: "#c5c8c6"
-text-col: "#1d1f21"
+page-col: "#282a2e"
+text-col: "#c5c8c6"
 link-col: "#81a2be"
 hover-col: "#8abeb7"
-footer-col: "#282a2e"
+footer-col: "#373b41"
 footer-text-col: "#c5c8c6"
 footer-link-col: "#81a2be"
 
