@@ -14,16 +14,16 @@ author: shortcreekfolk
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Meditation: "currentmeditation"
-  Media:
+  About: "aboutme"
+  Streams+Media:
     - SoundCloud: "https://soundcloud.com/shortcreekfolk"
     - YouTube: "https://www.youtube.com/channel/UC9SF1h-1NzmbbXmLWbIDn0w"
     - Live Stream: "stream"
+  Meditation: "currentmeditation"
   Resources:
     - Apple Music Playlist: "https://music.apple.com/us/playlist/short-creek-folk/pl.u-625KIB7JWqq"
     - Spotify Playlist: "https://open.spotify.com/playlist/10pxpzIgkoL41Tl9Zfrfd6"
-    - Gear List: "gear"
+    - Gear: "gear"
   Contact: "contact"
 
 # --- Logo --- #
